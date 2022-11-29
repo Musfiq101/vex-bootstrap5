@@ -90,7 +90,7 @@ element.style {
 }
 
 .update{
-    background-image: url(/inc/image/call-to-action.jpg);
+    background-image: url(../image/call-to-action.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
